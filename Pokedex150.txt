@@ -1,0 +1,599 @@
+Name: Bulbasaur
+Type: Grass
+Description: test 
+
+Name: Ivysaur
+Type: Grass
+Description: test 
+
+Name: Venusaur
+Type: Grass
+Description: test 
+
+Name: Charmander
+Type: Fire
+Description: test 
+
+Name: Charmeleon
+Type: Fire
+Description: test 
+
+Name: Charizard
+Type: Fire
+Description: test 
+
+Name: Squirtle
+Type: Water
+Description: test
+
+Name: Wartortle
+Type: Water
+Description: test
+
+Name: Blastoise
+Type: Water
+Description: test
+
+Name: Caterpie
+Type: Grass
+Description: test
+
+Name: Metapod
+Type: Grass
+Description: test
+
+Name: Butterfree
+Type: Grass
+Description: test
+
+Name: Weedle
+Type: Grass
+Description: test
+
+Name: Kakuna
+Type: Grass
+Description: test
+
+Name: Beedrill
+Type: Grass
+Description: test
+
+Name: Pidgey
+Type: Grass
+Description: test
+
+Name: Pidgeotto
+Type: Grass
+Description: test
+
+Name: Pidgeot
+Type: Grass
+Description: test
+
+Name: Rattata
+Type: Grass
+Description: test
+
+Name: Raticate
+Type: Grass
+Description: test
+
+Name: Spearow
+Type: Grass
+Description: test
+
+Name: Fearow
+Type: Grass
+Description: test
+
+Name: Ekans
+Type: Grass
+Description: test
+
+Name: Arbok
+Type: Grass
+Description: test
+
+Name: Pikachu
+Type: Electric
+Description: test
+
+Name: Raichu
+Type: Electric
+Description: test
+
+Name: Sandshrew
+Type: Fire
+Description: test
+
+Name: Sandslash
+Type: Fire
+Description: test
+
+Name: Nidoran
+Type: Water
+Description: test
+
+Name: Nidorina
+Type: Water
+Description: test
+
+Name: Nidoqueen
+Type: Water
+Description: test
+
+Name: Oshawott
+Type: Water
+Description: test
+
+Name: Nidorino
+Type: Water
+Description: test
+
+Name: Nidoking
+Type: Water
+Description: test
+
+Name: Clefairy
+Type: Grass
+Description: test
+
+Name: Clefable
+Type: Grass
+Description: test
+
+Name: Vulpix
+Type: Fire
+Description: test
+
+Name: Ninetales
+Type: Fire
+Description: test
+
+Name: Jigglypuff
+Type: Fire
+Description: test
+
+Name: Wigglytuff
+Type: Fire
+Description: test
+
+Name: Zubat
+Type: Water
+Description: test
+
+Name: Golbat
+Type: Water
+Description: test
+
+Name: Oddish
+Type: Fire
+Description: test
+
+Name: Gloom
+Type: Grass
+Description: test
+
+Name: Vileplume
+Type: Grass
+Description: test
+
+Name: Paras
+Type: Grass
+Description: test
+
+Name: Parasect
+Type: Grass
+Description: test
+
+Name: Venonat
+Type: Grass
+Description: test
+
+Name: Venomoth
+Type: Grass
+Description: test
+
+Name: Diglett
+Type: Electric
+Description: test
+
+Name: Dugtrio
+Type: Electric
+Description: test
+
+Name: Meowth
+Type: Grass
+Description: test
+
+Name: Persian
+Type: Grass
+Description: test
+
+Name: Psyduck
+Type: Water
+Description: test
+
+Name: Golduck
+Type: Water
+Description: test
+
+Name: Mankey
+Type: Electric
+Description: test
+
+Name: Primeape
+Type: Electric
+Description: test
+
+Name: Growlithe
+Type: Fire
+Description: test
+
+Name: Arcanine
+Type: Fire
+Description: test
+
+Name: Poliwag
+Type: Water
+Description: test
+
+Name: Poliwhirl
+Type: Water
+Description: test
+
+Name: Poliwrath
+Type: Water
+Description: test
+
+Name: Abra
+Type: Electric
+Description: test
+
+Name: Kadabra
+Type: Electric
+Description: test
+
+Name: Alakazam
+Type: Electric
+Description: test
+
+Name: Machop
+Type: Fire
+Description: test
+
+Name: Machoke
+Type: Fire
+Description: test
+
+Name: Machamp
+Type: Fire
+Description: test
+
+Name: Bellsprout
+Type: Grass
+Description: test
+
+Name: Weepinbell
+Type: Grass
+Description: test
+
+Name: Victreebel
+Type: Grass
+Description: test
+
+Name: Tentacool
+Type: Water
+Description: test
+
+Name: Tentacruel
+Type: Water
+Description: test
+
+Name: Geodude
+Type: Grass
+Description: test
+
+Name: Graveler
+Type: Grass
+Description: test
+
+Name: Golem
+Type: Grass
+Description: test
+
+Name: Ponyta
+Type: Fire
+Description: test
+
+Name: Rapidash
+Type: Fire
+Description: test
+
+Name: Slowpoke
+Type: Water
+Description: test
+
+Name: Slowbro
+Type: Water
+Description: test
+
+Name: Magnemite
+Type: Electric
+Description: test
+
+Name: Magneton
+Type: Electric
+Description: test
+
+Name: Farfetch’d
+Type: Fire
+Description: test
+
+Name: Doduo
+Type: Fire
+Description: test
+
+Name: Dodrio
+Type: Fire
+Description: test
+
+Name: Seel
+Type: Water
+Description: test
+
+Name: Dewgong
+Type: Water
+Description: test
+
+Name: Grimer
+Type: Water
+Description: test
+
+Name: Muk
+Type: Water
+Description: test
+
+Name: Shellder
+Type: Water
+Description: test
+
+Name: Cloyster
+Type: Water
+Description: test
+
+Name: Gastly
+Type: Grass
+Description: test
+
+Name: Haunter
+Type: Grass
+Description: test
+
+Name: Gengar
+Type: Grass
+Description: test
+
+Name: Onix
+Type: Grass
+Description: test
+
+Name: Drowzee
+Type: Electric
+Description: test
+
+Name: Hypno
+Type: Electric
+Description: test
+
+Name: Krabby
+Type: Water
+Description: test
+
+Name: Kingler
+Type: Water
+Description: test
+
+Name: Voltorb
+Type: Electric
+Description: test
+
+Name: Electrode
+Type: Electric
+Description: test
+
+Name: Exeggcute
+Type: Grass
+Description: test
+
+Name: Exeggutor
+Type: Grass
+Description: test
+
+Name: Cubone
+Type: Grass
+Description: test
+
+Name: Marowak
+Type: Fire
+Description: test
+
+Name: Hitmonlee
+Type: Fire
+Description: test
+
+Name: Hitmonchan
+Type: Fire
+Description: test
+
+Name: Lickitung
+Type: Grass
+Description: test
+
+Name: Koffing
+Type: Grass
+Description: test
+
+Name: Weezing
+Type: Grass
+Description: test
+
+Name: Rhyhorn
+Type: Grass
+Description: test
+
+Name: Rhydon
+Type: Grass
+Description: test
+
+Name: Chansey
+Type: Grass
+Description: test
+
+Name: Tangela
+Type: Grass
+Description: test
+
+Name: Kangaskhan
+Type: Grass
+Description: test
+
+Name: Horsea
+Type: Water
+Description: test
+
+Name: Seadra
+Type: Water
+Description: test
+
+Name: Goldeen
+Type: Water
+Description: test
+
+Name: Seaking
+Type: Water
+Description: test
+
+Name: Staryu
+Type: Water
+Description: test
+
+Name: Starmie
+Type: Water
+Description: test
+
+Name: Mr. Mime
+Type: Electric
+Description: test
+
+Name: Scyther
+Type: Grass
+Description: test
+
+Name: Jynx
+Type: Water
+Description: test
+
+Name: Electabuzz
+Type: Electric
+Description: test
+
+Name: Magmar
+Type: Fire
+Description: test
+
+Name: Pinsir
+Type: Grass
+Description: test
+
+Name: Tauros
+Type: Electric
+Description: test
+
+Name: Magikarp
+Type: Water
+Description: test
+
+Name: Gyarados
+Type: Water
+Description: test
+
+Name: Lapras
+Type: Water
+Description: test
+
+Name: Ditto
+Type: Grass
+Description: test
+
+Name: Eevee
+Type: Grass
+Description: test
+
+Name: Vaporeon
+Type: Water
+Description: test
+
+Name: Jolteon
+Type: Electric
+Description: test
+
+Name: Flareon
+Type: Fire
+Description: test
+
+Name: Porygon
+Type: Fire
+Description: test
+
+Name: Omanyte
+Type: Grass
+Description: test
+
+Name: Omastar
+Type: Grass
+Description: test
+
+Name: Kabuto
+Type: Grass
+Description: test
+
+Name: Kabutops
+Type: Grass
+Description: test
+
+Name: Aerodactyl
+Type: Grass
+Description: test
+
+Name: Snorlax
+Type: Water
+Description: test
+
+Name: Articuno
+Type: Water
+Description: test
+
+Name: Zapdos
+Type: Electric
+Description: test
+
+Name: Moltres
+Type: Water
+Description: test
+
+Name: Dratini
+Type: Fire
+Description: test
+
+Name: Dragonair
+Type: Fire
+Description: test
+
+Name: Dragonite
+Type: Fire
+Description: test
+
+Name: Mewtwo
+Type: Water
+Description: test
